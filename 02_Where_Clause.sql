@@ -4,6 +4,7 @@ Topic      : WHERE Clause
 Database   : Employee Management System
 SQL Server : Microsoft SQL Server
 ===================================================================================================
+*/
 
 -- Question 1.
 -- Display employees from the IT department.
